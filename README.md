@@ -1,4 +1,4 @@
 FoursqaureAPIUsage
 ==================
 
-a short program to use foursqaure API
+program to use foursqaure API
